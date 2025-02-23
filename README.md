@@ -15,22 +15,38 @@ SmartScrape/
 │   ├── main.py 
                                 # FastAPI app
 │   ├── scraper.py              # Web scraping logic
+
 │   ├── embeddings.py           # AI embedding & retrieval logic
+
 │   ├── models/
+
 │   │   ├── request_models.py   # Pydantic models
+
 │   ├── vectorstore/            # FAISS index storage
+
 │   ├── utils/
+
 │   │   ├── helpers.py          # Utility functions
+
 │   ├── .env                    # API keys and environment variables
+
 │   ├── requirements.txt        # Dependencies
+
 │
 │── frontend/
+
 │   ├── app.py                  # Streamlit frontend
+
 │   ├── utils/
+
 │   │   ├── api.py              # Functions for calling FastAPI endpoints
+
 │   ├── assets/                 # Static files (logos, images)
+
 │   ├── .env                    # Frontend environment variables
+
 │   ├── requirements.txt        # Dependencies
+
 
 ⚡ Installation & Setup
 
