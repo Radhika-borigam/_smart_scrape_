@@ -14,6 +14,7 @@ SmartScrape/
 
 │   ├── main.py 
                                 # FastAPI app
+                                
 │   ├── scraper.py              # Web scraping logic
 
 │   ├── embeddings.py           # AI embedding & retrieval logic
