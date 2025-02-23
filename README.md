@@ -9,8 +9,11 @@ Smart Scrape is an AI-powered web scraping tool that allows users to extract dat
 🏗 Project Structure
 
 SmartScrape/
+
 │── backend/
-│   ├── main.py                 # FastAPI app
+
+│   ├── main.py 
+                                # FastAPI app
 │   ├── scraper.py              # Web scraping logic
 │   ├── embeddings.py           # AI embedding & retrieval logic
 │   ├── models/
