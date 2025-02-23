@@ -53,7 +53,7 @@ SmartScrape/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/SmartScrape.git
+git clone https://github.com/Radhika-borigam/SmartScrape.git
 cd SmartScrape
 
 2️⃣ Backend Setup (FastAPI)
